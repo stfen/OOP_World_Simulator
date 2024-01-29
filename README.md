@@ -1,4 +1,5 @@
-#Cel projektu
+##Cel projektu
+
 Celem projektu jest implementacja programu o charakterze symulatora wirtualnego świata,
 który ma mieć strukturę dwuwymiarowej kraty. W świecie tym będą
 istniały proste formy życia o odmiennym zachowaniu. Każdy z organizmów zajmuje dokładnie
@@ -23,7 +24,8 @@ pojawić po kilka sztuk wszystkich rodzajów zwierząt oraz roślin. Okno progra
 zawierać pole, w którym wypisywane będą informacje o rezultatach walk, spożyciu roślin i innych
 zdarzeniach zachodzących w świecie.
 
-#Sterowanie
+##Sterowanie
+
 <ul>
   <li>q - wyjście z gry</li>
   <li>s - zapis stanu gry (pierwsze kliknięcie to włączenie możliwości wpisania nazwy, drugie to zapis)</li>
